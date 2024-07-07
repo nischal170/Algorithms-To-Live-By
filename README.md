@@ -1,0 +1,1 @@
+This repo contains the algorithms mentioned in the book "Algorithms To Live By". I have tried to summarize every algorithm mentioned in the book.
