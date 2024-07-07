@@ -61,36 +61,12 @@
             "id": "c2da883b01d10815",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Optimal Stopping/Secretary Problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6f64227a5eea1dc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "ae8c3d5c9bc84ad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -156,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -217,14 +189,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae8c3d5c9bc84ad6",
+  "active": "c2da883b01d10815",
   "lastOpenFiles": [
-    "1.Optimal Stopping/Secretary Problem.md",
+    "2.Explore-Exploit/Upper Confidence Bound (UCB).md",
     "README.md",
     "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
+    "1.Optimal.md",
+    "1.Optimal Stopping/Secretary Problem.md",
+    "1.OptimalStopping/Secretary.md",
+    "1.OptimalStopping",
+    "1.op/a.md",
+    "1.op",
     "Optimal Stopping/Untitled.md",
     "2.Explore-Exploit",
-    "1.Optimal Stopping",
-    "2.Explore-Exploit/Upper Confidence Bound (UCB).md"
+    "1.Optimal Stopping"
   ]
 }
