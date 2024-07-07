@@ -61,8 +61,12 @@
             "id": "c2da883b01d10815",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.Optimal Stopping/Secretary Problem.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -132,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.Optimal Stopping/Secretary Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.Optimal Stopping/Secretary Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.Optimal Stopping/Secretary Problem.md"
+              }
             }
           }
         ]
@@ -191,8 +199,8 @@
   },
   "active": "c2da883b01d10815",
   "lastOpenFiles": [
-    "2.Explore-Exploit/Upper Confidence Bound (UCB).md",
     "README.md",
+    "2.Explore-Exploit/Upper Confidence Bound (UCB).md",
     "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
     "1.Optimal.md",
     "1.Optimal Stopping/Secretary Problem.md",
