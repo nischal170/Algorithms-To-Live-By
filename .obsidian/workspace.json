@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explore-Exploit/Multi-Armed Bandit Problem.md",
+                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explore-Exploit/Multi-Armed Bandit Problem.md",
+                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimal Stopping/Secretary Problem.md",
+                "file": "1.Optimal Stopping/Secretary Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,12 @@
             "id": "ae8c3d5c9bc84ad6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -152,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2.Explore-Exploit/Multi-Armed Bandit Problem.md"
+              }
             }
           }
         ]
@@ -211,12 +219,12 @@
   },
   "active": "ae8c3d5c9bc84ad6",
   "lastOpenFiles": [
+    "1.Optimal Stopping/Secretary Problem.md",
     "README.md",
-    "Optimal Stopping/Secretary Problem.md",
-    "Explore-Exploit/Multi-Armed Bandit Problem.md",
+    "2.Explore-Exploit/Multi-Armed Bandit Problem.md",
     "Optimal Stopping/Untitled.md",
-    "Explore-Exploit",
-    "Optimal Stopping",
-    "Explore-Exploit/Upper Confidence Bound (UCB).md"
+    "2.Explore-Exploit",
+    "1.Optimal Stopping",
+    "2.Explore-Exploit/Upper Confidence Bound (UCB).md"
   ]
 }
